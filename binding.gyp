@@ -116,6 +116,15 @@
 			"cc/xfeatures2d/SURFDetector.cc",
 			"cc/highgui/highgui.cc",
 			"cc/highgui/highguiConstants.cc",
+			"cc/rgbd/colored_kinfu.cc",
+			"cc/rgbd/depth.cc",
+			"cc/rgbd/dynafu.cc",
+			"cc/rgbd/intrinsics.cc",
+			"cc/rgbd/kinfu.cc",
+			"cc/rgbd/large_kinfu.cc",
+			"cc/rgbd/linemod.cc",
+			"cc/rgbd/volume.cc",
+			"cc/rgbd/detail/pose_graph.cc",
 		],
 
 		"cflags" : [
